@@ -1,0 +1,34 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Notedd" parent="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/logoColor</item>
+        <item name="colorPrimaryVariant">@color/logoBackgroundColor</item>
+        <item name="colorOnPrimary">@color/logoColor</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/logoColor</item>
+        <item name="colorSecondaryVariant">@color/logoColor</item>
+        <item name="colorOnSecondary">@color/logoColor</item>
+        <item name="titleTextColor">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.SplashScreen" parent="Theme.MaterialComponents.DayNight.DarkActionBar.Bridge">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/logoColor</item>
+        <item name="colorPrimaryVariant">@color/logoBackgroundColor</item>
+        <item name="colorOnPrimary">@color/logoColor</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/logoColor</item>
+        <item name="colorSecondaryVariant">@color/logoColor</item>
+        <item name="colorOnSecondary">@color/logoColor</item>
+        <item name="titleTextColor">@color/white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <item name="android:navigationBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
